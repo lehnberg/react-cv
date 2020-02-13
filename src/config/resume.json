@@ -1,0 +1,202 @@
+{
+  "about": {
+    "title": "about",
+    "content": {
+      "name": "Cosmo Kramer",
+      "description": "Actor, Entrepreneur, Author",
+      "email": "cosmo@kramerica.com",
+      "phone": "+1 555 205 BOSCO",
+      "url": "https://kramerica.com",
+      "github": "https://github.com/yourgithub",
+      "location": "New York, U.S."
+    }
+  },
+  "profile": {
+    "title": "profile",
+    "content": "Cosmo Kramer, usually referred to as simply \"Kramer\", is a fictional character on the American television sitcom Seinfeld, played by Michael Richards. The character is loosely based on comedian Kenny Kramer, Larry David's ex-neighbor across the hall."
+  },
+  "work": {
+    "title": "relevant work experience",
+    "content": [
+      {
+        "company": "Kramerica Industries",
+        "url": "https://kramerica.inc",
+        "position": "CEO and Founder",
+        "location": "Remote",
+        "startDate": "2000-08",
+        "highlights": [
+          "Umbrella company for efforts such as a \"make your own pie\" pizza restaurant and an oil bladder system. Ketchup & Mustard in the same bottle. A restaurant that only serves peanut butter & jelly sandwiches, PB&J’S."
+        ]
+      },
+      {
+        "company": "Calvin Klein",
+        "url": "https://calvinklein.com",
+        "position": "Underwear model",
+        "location": "New York (NY)",
+        "startDate": "1999-12",
+        "highlights": [
+          "He also comes up with the idea of a beach-scented cologne in The Pez Dispenser, but a marketing executive for Calvin Klein tells him the idea is ridiculous. Despite this, it is revealed in the episode The Pick that Calvin Klein began making an ocean-scented cologne. Instead of suing, Calvin Klein offer to allow Kramer to be an underwear model, which Kramer accepts."
+        ]
+      },
+      {
+        "company": "The real J Peterman bus tour",
+        "url": "",
+        "position": "Operator",
+        "location": "West village (NY)",
+        "startDate": "1996-08-01",
+        "endDate": "1997-03-31",
+        "highlights": [
+          "In The Muffin Tops, Kramer cries foul after failing to receive due credit for J. Peterman's book success which is based on Kramer's misadventures. He then confronts Peterman during a book signing and is kicked out of the event. Kramer then declares himself The Real Peterman and initiates The Real Peterman Reality Bus Tour, charging customers $37.50 for a tour of his life."
+        ]
+      },
+      {
+        "company": "Murphy Brown",
+        "url": "https://murphybrown.com",
+        "position": "Actor",
+        "location": "Los Angeles (US)",
+        "startDate": "1995",
+        "endDate": "1995",
+        "highlights": [
+          "The Keys is the 40th episode of the sitcom Seinfeld. It is the 23rd, and final, episode of the third season and the first of a three-episode story arc. Candice Bergen guest stars as herself, playing the title character from Murphy Brown (as she did in real life) in a TV episode within a TV episode."
+        ]
+      },
+      {
+        "company": "Non fiction author",
+        "url": "",
+        "position": "Coffee table book",
+        "location": "London (UK)",
+        "startDate": "1996-08",
+        "endDate": "1998-04",
+        "highlights": [
+          "The book itself is full of pictures of celebrities' coffee tables, and even had a pair of foldable wooden legs so that it could itself be turned into a coffee table. He also says that he has plans for a coaster to be built into the cover. Tom Gammill and Max Pross, writers of The Cigar Store Indian, came up with the idea of the coffee table book about coffee tables, and Larry David added on the idea of the foldout legs to turn it into a coffee table."
+        ]
+      },
+      {
+        "company": "H&H Bagels",
+        "url": "https://hhbagels.com",
+        "position": "Head of sales",
+        "location": "Brooklyn (NY)",
+        "startDate": "1975-03",
+        "endDate": "1997-12",
+        "highlights": [
+          "On December 18, 1997, NBC aired the Seinfeld episode entitled \"The Strike,\" in which Cosmo Kramer returns to work at H&H Bagels after supposedly having been on strike for 12 years. He eventually strikes again, returns again, then is fired for dropping his gum into the bagel dough. The episode is also famous for introducing Frank Costanza's alternative holiday."
+        ]
+      },
+      {
+        "company": "U.S. Army",
+        "position": "Classified position",
+        "location": "Fort Meade, FL",
+        "startDate": "1974",
+        "endDate": "1974",
+        "highlights": ["Classified."]
+      }
+    ]
+  },
+  "education": {
+    "title": "education",
+    "content": [
+      {
+        "institution": "Oxford University",
+        "area": "English litterature",
+        "startDate": "1982-09",
+        "endDate": "1985-08",
+        "highlights": [
+          "When Jerry calls Kramer's mother, the music heard in the background is from Pagliacci, which was later featured in the episode The Opera. The scene that shows Kramer rollerskating in L.A. is accompanied by an instrumental version of The Beach Boys."
+        ]
+      },
+      {
+        "institution": "Unknown",
+        "area": "GED diploma",
+        "startDate": "1968-09",
+        "endDate": "1970-08",
+        "highlights": [
+          "Kramer never completed high school; however, it is made clear in The Barber that Kramer has a GED."
+        ]
+      }
+    ]
+  },
+  "courses": {
+    "title": "courses",
+    "content": [
+      {
+        "institution": "NYU",
+        "area": "Macaroni science",
+        "startDate": "2003"
+      },
+      {
+        "institution": "Stanford",
+        "area": "Cinema studies",
+        "startDate": "2001-11",
+        "endDate": "2003-04"
+      },
+      {
+        "institution": "Coursera",
+        "area": "Project Management",
+        "location": "",
+        "startDate": "2000",
+        "endDate": "2000"
+      }
+    ]
+  },
+  "skills": {
+    "title": "skills",
+    "content": [
+      {
+        "name": "Frivolous Law suits",
+        "keywords": ["Big coffee", "Big tobacco"]
+      },
+      {
+        "name": "Acting",
+        "keywords": ["Improv", "Drama", "Classics"]
+      },
+      {
+        "name": "Slicing meat",
+        "keywords": ["Pastrami", "Ham", "Bologna"]
+      }
+    ]
+  },
+  "languages": {
+    "title": "languages",
+    "content": [
+      {
+        "language": "English",
+        "proficiency": "native"
+      },
+      {
+        "language": "American Sign Language",
+        "proficiency": "fluent"
+      },
+      {
+        "language": "Italian",
+        "proficiency": "some competence"
+      }
+    ]
+  },
+  "interests": {
+    "title": "interests",
+    "content": [
+      {
+        "name": "Board games",
+        "keywords": [
+          "Risk",
+          "Secure Multiparty Computation",
+          "Mixnets",
+          "Secure messaging protocols"
+        ]
+      },
+      {
+        "name": "Pasta figurines",
+        "keywords": ["Fusili Jerry", "Macaroni Midler", "Ravioli Costanza"]
+      },
+      {
+        "name": "Watching Movies",
+        "keywords": ["Cry, Cry again", "Sack lunch", "Checkmate"]
+      },
+      {
+        "name": "Items collecting",
+        "keywords": ["Cigars", "Bottlecaps", "Clothes"]
+      }
+    ]
+  },
+  "references": { "title": "references", "content": "Available on request." }
+}
